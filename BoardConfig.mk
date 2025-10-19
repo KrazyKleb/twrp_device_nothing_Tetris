@@ -178,7 +178,7 @@ BOARD_INCLUDE_RECOVERY_RAMDISK_IN_VENDOR_BOOT := true
 
 # ---- OrangeFox additions ----
 OF_MAINTAINER            := KrazyKleb
-OF_AB_DEVICE             := 1
+FOX_AB_DEVICE             := 1
 OF_DYNRECOVERY_PARTITION := 1     # recovery lives in vendor_boot
 OF_USE_MAGISKBOOT        := 1
 OF_PATCH_AVB20           := 1
